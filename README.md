@@ -100,13 +100,5 @@ Este bootcamp está diseñado para proporcionar una base sólida en redes neuron
 
 ---
 
-## **Formato y Requisitos**  
-- **Nivel:** Principiante - Intermedio  
-- **Requisitos:** Conocimientos básicos de Python y álgebra lineal.  
-- **Herramientas:** TensorFlow, Keras, Jupyter Notebooks.  
-- **Duración:** 12 sesiones (aproximadamente 4 semanas).  
-
----
-
 ## **Conclusión**  
 Este bootcamp proporcionará una base teórica y práctica para entender cómo funcionan las redes neuronales y cómo implementarlas en TensorFlow. Al final del curso, los participantes tendrán la capacidad de construir modelos de IA desde cero y aplicarlos en problemas reales.
